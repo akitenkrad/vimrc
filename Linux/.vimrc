@@ -44,5 +44,5 @@ set encoding=utf-8
 set fileencodings=iso-2022-jp,euc-jp,sis,utf-8
 set fileformats=unix,dos,mac
 nnoremap <silent> <C-j> :bprev<CR>
-nnoremap <silent> <C-k> :next<CR>
+nnoremap <silent> <C-k> :bnext<CR>
 
