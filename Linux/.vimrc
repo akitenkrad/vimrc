@@ -41,7 +41,7 @@ set clipboard+=unnamed
 
 set t_Co=256
 set encoding=utf-8
-set fileencodings=iso-2022-jp,euc-jp,sis,utf-8
+set fileencodings=utf-8,iso-2022-jp,euc-jp,sis
 set fileformats=unix,dos,mac
 nnoremap <silent> <C-j> :bprev<CR>
 nnoremap <silent> <C-k> :bnext<CR>
